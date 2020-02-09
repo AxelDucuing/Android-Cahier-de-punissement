@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Le cahier de punissement</string>
+    <string name="hint_submit">Submit</string>
+    <string name="hint_reset">Reset</string>
+    <string name="hint_place" translatable="false">150 rue de la Découverte 31670 LABEGE</string>
+    <string name="select_type_0">Light, fresh .. Perfect for summer</string>
+    <string name="select_type_1">Good choice, nothing better than a good homemade dish!</string>
+    <string name="select_type_2">Very good choice, what better than sugar!</string>
+    <string name="extra_erreur">No trainee selected</string>
+    <string name="error_formulaire">An error occurred</string>
+    <string name="hint_name">Enter name</string>
+    <string name="hint_forename">Enter forename</string>
+    <string name="hint_url">Enter imageURL</string>
+    <string name="hint_mail">Enter email</string>
+    <string name="hint_address_num">enter the street number</string>
+    <string name="hint_address_name">enter the street name</string>
+    <string name="hint_address_cp">Enter postal code</string>
+    <string name="hint_address_city">Enter the city</string>
+    <string name="title_layout_add_punition">"Punishment form "</string>
+    <string name="punishment">Punishment</string>
+    <string name="title_layout_add_trainee">Add intern</string>
+    <string name="choice">Make a choice</string>
+    <string name="modify_intern">Modify Intern</string>
+    <string name="error_list_no_interns">Database Error. The group is empty.</string>
+    <string name="punishment_for">Punishment for</string>
+    <string name="text_group">Membership group :</string>
+    <string name="menu_back">Groups</string>
+    <string name="menu_punishments">List of punishments</string>
+    <string name="menu_add_intern">Add an intern</string>
+    <string name="hint_punishment_type">Choose a type of punishment</string>
+    <string name="hint_set_calendar">Choose a date for the punishment</string>
+    <string name="hint_address_choice">Choose an address</string>
+    <string name="error_adress_pathway">Please use \"rue\" or a French pathway name</string>
+    <string name="error_address_numbers">Please only use numbers for the street number and Postal code</string>
+    <string name="error_address_street">Please only use numbers or letters for the name of the street</string>
+    <string name="error_address_city">Please only use numbers or letters for the city name</string>
+    <string name="error_punishment_record">The punishment could not be recorded. An error occurred.</string>
+    <string name="button_modif">update</string>
+    <string name="error_date">Wrong Date. Please select a valid date.</string>
+    <string name="info_punissement">*Long click on a group or intern to add a punishment</string>
+</resources>

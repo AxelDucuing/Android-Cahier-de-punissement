@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_test">
+        <item>Entrée</item>
+        <item>Plat</item>
+        <item>Dessert</item>
+    </string-array>
+
+    <string-array name="groupe_test">
+        <item>Développeur</item>
+        <item>Administrateur</item>
+        <item>Concepteur</item>
+    </string-array>
+
+    <array name="adresse_test">
+        <item>@array/adresse_1</item>
+        <item>@array/adresse_2</item>
+        <item>@array/adresse_3</item>
+        <item>@array/adresse_4</item>
+        <item>@array/adresse_5</item>
+        <item>@array/adresse_6</item>
+        <item>@array/adresse_7</item>
+        <item>@array/adresse_8</item>
+        <item>@array/adresse_9</item>
+        <item>@array/adresse_10</item>
+        <item>@array/adresse_11</item>
+        <item>@array/adresse_12</item>
+        <item>@array/adresse_13</item>
+        <item>@array/adresse_14</item>
+        <item>@array/adresse_15</item>
+        <item>@array/adresse_16</item>
+        <item>@array/adresse_17</item>
+        <item>@array/adresse_18</item>
+        <item>@array/adresse_19</item>
+        <item>@array/adresse_20</item>
+        <item>@array/adresse_21</item>
+        <item>@array/adresse_22</item>
+        <item>@array/adresse_23</item>
+        <item>@array/adresse_24</item>
+        <item>@array/adresse_25</item>
+        <item>@array/adresse_26</item>
+        <item>@array/adresse_27</item>
+        <item>@array/adresse_28</item>
+        <item>@array/adresse_29</item>
+        <item>@array/adresse_30</item>
+    </array>
+
+    <string-array name="adresse_1">
+        <item>500</item>
+        <item>Rue des coquelicots</item>
+        <item>Montrejeau</item>
+        <item>31210</item>
+    </string-array>
+    <string-array name="adresse_2">
+        <item>96</item>
+        <item>Rue des gif</item>
+        <item>Erreur</item>
+        <item>00404</item>
+    </string-array>
+    <string-array name="adresse_3">
+        <item>666</item>
+        <item>Impasse du Tartare</item>
+        <item>Enfer</item>
+        <item>00666</item>
+    </string-array>
+    <string-array name="adresse_4">
+        <item>4</item>
+        <item>Rue des coquelicots</item>
+        <item>Bouc-étourdi</item>
+        <item>78730</item>
+    </string-array>
+    <string-array name="adresse_5">
+        <item>94</item>
+        <item>Rue des coquelicots</item>
+        <item>Deux-Verges</item>
+        <item>15110</item>
+    </string-array>
+    <string-array name="adresse_6">
+        <item>4</item>
+        <item>Rue des boulets</item>
+        <item>Arnac la poste</item>
+        <item>87160</item>
+    </string-array>
+    <string-array name="adresse_7">
+        <item>10</item>
+        <item>Rue de la gerbe</item>
+        <item>Bezons</item>
+        <item>95870</item>
+    </string-array>
+    <string-array name="adresse_8">
+        <item>120</item>
+        <item>place de la bulle</item>
+        <item>Longcochon</item>
+        <item>39250</item>
+    </string-array>
+    <string-array name="adresse_9">
+        <item>8</item>
+        <item>Place au beurre</item>
+        <item>Anus</item>
+        <item>89560</item>
+    </string-array>
+    <string-array name="adresse_10">
+        <item>2</item>
+        <item>Rue de la vieille</item>
+        <item>Comdom</item>
+        <item>32100</item>
+    </string-array>
+    <string-array name="adresse_11">
+        <item>666</item>
+        <item>Rue de l enfer</item>
+        <item>La Trique</item>
+        <item>79700</item>
+    </string-array>
+    <string-array name="adresse_12">
+        <item>42</item>
+        <item>Rue de la pie qui boit</item>
+        <item>Le Fion</item>
+        <item>51300</item>
+    </string-array>
+    <string-array name="adresse_13">
+        <item>83</item>
+        <item>Rue des pucelles</item>
+        <item>Ste Verge</item>
+        <item>79100</item>
+    </string-array>
+    <string-array name="adresse_14">
+        <item>45</item>
+        <item>Rue des mauvais garcons</item>
+        <item>Monteton</item>
+        <item>47120</item>
+    </string-array>
+    <string-array name="adresse_15">
+        <item>41</item>
+        <item>Impasse cascouille</item>
+        <item>Bourré</item>
+        <item>41400</item>
+    </string-array>
+    <string-array name="adresse_16">
+        <item>63</item>
+        <item>Rue de la croquette</item>
+        <item>Glandage</item>
+        <item>26410</item>
+    </string-array>
+    <string-array name="adresse_17">
+        <item>102</item>
+        <item>Rue Brise_Miche</item>
+        <item>Poil</item>
+        <item>58170</item>
+    </string-array>
+    <string-array name="adresse_18">
+        <item>4</item>
+        <item>Place de la bonne humeur</item>
+        <item>Simplé</item>
+        <item>53360</item>
+    </string-array>
+    <string-array name="adresse_19">
+        <item>10</item>
+        <item>Impasse partout</item>
+        <item>Trécon</item>
+        <item>51130</item>
+    </string-array>
+    <string-array name="adresse_20">
+        <item>25</item>
+        <item>Chemin des soupirs</item>
+        <item>Bourron-Marlotte</item>
+        <item>77780</item>
+    </string-array>
+    <string-array name="adresse_21">
+        <item>48</item>
+        <item>Rue de la grippe</item>
+        <item>Plaisir</item>
+        <item>78050</item>
+    </string-array>
+    <string-array name="adresse_22">
+        <item>34</item>
+        <item>Rue de la grimpette</item>
+        <item>Bouc Etourdi</item>
+        <item>78730</item>
+    </string-array>
+    <string-array name="adresse_23">
+        <item>125</item>
+        <item>Rue Monplaisir</item>
+        <item>Bibiche</item>
+        <item>57320</item>
+    </string-array>
+    <string-array name="adresse_24">
+        <item>68</item>
+        <item>Rue Rompecul</item>
+        <item>Mariol</item>
+        <item>03270</item>
+    </string-array>
+    <string-array name="adresse_25">
+        <item>302</item>
+        <item>Rue du percepteur</item>
+        <item>Les Croutes</item>
+        <item>10130</item>
+    </string-array>
+    <string-array name="adresse_26">
+        <item>500</item>
+        <item>Rue des coquelicots</item>
+        <item>Angoisse</item>
+        <item>24270</item>
+    </string-array>
+    <string-array name="adresse_27">
+        <item>206</item>
+        <item>Rue de la huchette</item>
+        <item>Bizou</item>
+        <item>61290</item>
+    </string-array>
+    <string-array name="adresse_28">
+        <item>96</item>
+        <item>Rue Briquet</item>
+        <item>Glaire</item>
+        <item>08200</item>
+    </string-array>
+    <string-array name="adresse_29">
+        <item>45</item>
+        <item>Rue des petits cartables</item>
+        <item>Hébécrevon</item>
+        <item>31210</item>
+    </string-array>
+    <string-array name="adresse_30">
+        <item>201</item>
+        <item>Rue du sentier</item>
+        <item>La Force</item>
+        <item>50180</item>
+    </string-array>
+    <string name="image_stagiaire" translatable="false">https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png</string>
+
+    <array name="stagiaire_test">
+        <item>@array/stagiaire_1</item>
+        <item>@array/stagiaire_2</item>
+        <item>@array/stagiaire_3</item>
+        <item>@array/stagiaire_4</item>
+        <item>@array/stagiaire_5</item>
+        <item>@array/stagiaire_6</item>
+        <item>@array/stagiaire_7</item>
+        <item>@array/stagiaire_8</item>
+        <item>@array/stagiaire_9</item>
+        <item>@array/stagiaire_10</item>
+        <item>@array/stagiaire_11</item>
+        <item>@array/stagiaire_12</item>
+        <item>@array/stagiaire_13</item>
+        <item>@array/stagiaire_14</item>
+        <item>@array/stagiaire_15</item>
+        <item>@array/stagiaire_16</item>
+        <item>@array/stagiaire_17</item>
+        <item>@array/stagiaire_18</item>
+        <item>@array/stagiaire_19</item>
+        <item>@array/stagiaire_20</item>
+        <item>@array/stagiaire_21</item>
+        <item>@array/stagiaire_22</item>
+        <item>@array/stagiaire_23</item>
+        <item>@array/stagiaire_24</item>
+        <item>@array/stagiaire_25</item>
+        <item>@array/stagiaire_26</item>
+        <item>@array/stagiaire_27</item>
+        <item>@array/stagiaire_28</item>
+        <item>@array/stagiaire_29</item>
+        <item>@array/stagiaire_30</item>
+    </array>
+    <string-array name="stagiaire_1">
+        <item>Ducuing</item>
+        <item>Axel</item>
+        <item>https://images.wizbii.com/profile/axel-ducuing/avatar/large@2x</item>
+        <item>axel@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_2">
+        <item>Ferrandez</item>
+        <item>Loïc</item>
+        <item>https://i.pinimg.com/originals/7f/db/98/7fdb98ff82d182750873cee8658667f6.jpg</item>
+        <item>loic@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_3">
+        <item>Goriounov</item>
+        <item>Daniel</item>
+        <item>@string/image_stagiaire</item>
+        <item>daniel@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_4">
+        <item>Hattiti</item>
+        <item>Saïd</item>
+        <item>@string/image_stagiaire</item>
+        <item>said@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_5">
+        <item>Moro</item>
+        <item>Joël</item>
+        <item>@string/image_stagiaire</item>
+        <item>joel@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_6">
+        <item>Bambelle</item>
+        <item>Larry</item>
+        <item>@string/image_stagiaire</item>
+        <item>lary.bambelle@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_7">
+        <item>Baba</item>
+        <item>Ali</item>
+        <item>@string/image_stagiaire</item>
+        <item>ali.baba@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_8">
+        <item>Mobile</item>
+        <item>Otto</item>
+        <item>@string/image_stagiaire</item>
+        <item>otto.mobile@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_9">
+        <item>Mate</item>
+        <item>Auto</item>
+        <item>@string/image_stagiaire</item>
+        <item>auto.mate@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_10">
+        <item>Bricot</item>
+        <item>Judas</item>
+        <item>@string/image_stagiaire</item>
+        <item>judas.bricot@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_11">
+        <item>Bale</item>
+        <item>Jean</item>
+        <item>@string/image_stagiaire</item>
+        <item>jean.bale@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_12">
+        <item>Jour</item>
+        <item>Abat</item>
+        <item>@string/image_stagiaire</item>
+        <item>abat.jour@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_13">
+        <item>Deschamp</item>
+        <item>Fleur</item>
+        <item>@string/image_stagiaire</item>
+        <item>axel@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_14">
+        <item>Ouzi</item>
+        <item>Jacques</item>
+        <item>@string/image_stagiaire</item>
+        <item>jacques.ouzi@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_15">
+        <item>Tatouille</item>
+        <item>Lara</item>
+        <item>@string/image_stagiaire</item>
+        <item>lara.tatouille@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_16">
+        <item>Kiroule</item>
+        <item>Pierre</item>
+        <item>@string/image_stagiaire</item>
+        <item>pierre.kiroule@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_17">
+        <item>Hochet</item>
+        <item>Eric</item>
+        <item>@string/image_stagiaire</item>
+        <item>eric.hochet@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_18">
+        <item>Kan</item>
+        <item>Jerry</item>
+        <item>@string/image_stagiaire</item>
+        <item>jerry.kan@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_19">
+        <item>Porre</item>
+        <item>Eva</item>
+        <item>@string/image_stagiaire</item>
+        <item>eva.porre@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_20">
+        <item>Erateur</item>
+        <item>Maude</item>
+        <item>@string/image_stagiaire</item>
+        <item>mode.erateur@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_21">
+        <item>Tar</item>
+        <item>Guy</item>
+        <item>@string/image_stagiaire</item>
+        <item>guy.tar@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_22">
+        <item>Pucien</item>
+        <item>Lili</item>
+        <item>@string/image_stagiaire</item>
+        <item>lili.pucien@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_23">
+        <item>Peuplu</item>
+        <item>Jean</item>
+        <item>@string/image_stagiaire</item>
+        <item>jean.peuplu@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_24">
+        <item>Bais</item>
+        <item>Titu</item>
+        <item>@string/image_stagiaire</item>
+        <item>titu.bais@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_25">
+        <item>Duck</item>
+        <item>Donald</item>
+        <item>@string/image_stagiaire</item>
+        <item>donald.duck@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_26">
+        <item>Time</item>
+        <item>Vique</item>
+        <item>@string/image_stagiaire</item>
+        <item>vique.time@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_27">
+        <item>Javel</item>
+        <item>Aude</item>
+        <item>@string/image_stagiaire</item>
+        <item>aude.javel@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_28">
+        <item>Bourre</item>
+        <item>Alla</item>
+        <item>@string/image_stagiaire</item>
+        <item>alla.bourre@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_29">
+        <item>Toute</item>
+        <item>Adroite</item>
+        <item>@string/image_stagiaire</item>
+        <item>adroite.toute@ldnr.fr</item>
+    </string-array>
+    <string-array name="stagiaire_30">
+        <item>Tamare</item>
+        <item>Tinte</item>
+        <item>@string/image_stagiaire</item>
+        <item>tite.amare@ldnr.fr</item>
+    </string-array>
+
+    <string-array name="punition_test">
+        <item>2019\-05\-25</item>
+        <item>2019\-05\-25</item>
+        <item>2019\-05\-25</item>
+    </string-array>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="select_type_0">Leger, frais.. Parfait pour l\'été</string>
+    <string name="hint_submit">soumettre</string>
+    <string name="hint_reset">Réinitialiser</string>
+    <string name="select_type_1">Bon choix, rien de mieux qu\'un bon plat maison !</string>
+    <string name="select_type_2">Très bon choix, quoi de mieux que le sucre !!</string>
+    <string name="extra_erreur">" Aucun stagiaire sélectionné"</string>
+    <string name="error_formulaire">Une erreur est survenue</string>
+    <string name="hint_mail">Entrer email</string>
+    <string name="hint_name">Entrer nom</string>
+    <string name="hint_url">Entrer l\'url de l\'image</string>
+    <string name="hint_forename">Entrer prénom</string>
+    <string name="title_layout_add_punition">Formulaire d\'ajout de punition</string>
+    <string name="title_layout_add_trainee">Formulaire d\'ajout de stagiaire</string>
+    <string name="punishment">Punissement</string>
+    <string name="choice">Faire un choix</string>
+    <string name="modify_intern">Modifier le stagiaire</string>
+    <string name="error_list_no_interns">Erreur de base de donnée. Le groupe est vide.</string>
+    <string name="punishment_for">Punissement pour</string>
+    <string name="text_group">Groupe d\'appartenance :</string>
+    <string name="hint_address_name">Entrer le nom de rue</string>
+    <string name="hint_address_num">Entrer le numéro de rue</string>
+    <string name="hint_address_cp">Entrer le code postal</string>
+    <string name="hint_address_city">Entrer la ville</string>
+    <string name="menu_punishments">Liste des punissements</string>
+    <string name="menu_back">Groupes</string>
+    <string name="menu_add_intern">Ajouter un stagiaire</string>
+    <string name="hint_punishment_type">Choisir un type de punissement</string>
+    <string name="hint_set_calendar">Choisir une date pour le punissement</string>
+    <string name="hint_address_choice">Choisir une adresse</string>
+    <string name="error_adress_pathway">Merci de choisir une rue, allée,...</string>
+    <string name="error_address_numbers">Merci de n\'utiliser que des chiffres pour le numéro de rue et le code postal</string>
+    <string name="error_address_street">Merci de n\'utiliser que des chiffres ou des lettres pour le nom de rue</string>
+    <string name="error_address_city">Merci de n\'utiliser que des chiffres ou lettres pour le nom de la ville</string>
+    <string name="error_punishment_record">Le punissment n\'a pu être enregistré. Erreur.</string>
+    <string name="button_modif">modifier</string>
+    <string name="error_date">Mauvaise date. Veuillez sélectionner une date valide</string>
+    <string name="info_punissement">*Maintenir sur un groupe ou un stagiaire pour ajouter un punissement</string>
+</resources>
